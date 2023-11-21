@@ -144,7 +144,7 @@ Guest speaker. Details TBD.
 
 ### Week 10: Coercion and control
 
-**[Core]** Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY: Cambridge University Press. Read Introduction.
+**[Core]** Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY: Cambridge University Press.
 
 **[Core]** Shih, Victor. 2020. "China's Leninist Response to COVID-19: From Information Suppression to Total Mobilization." UCSD 21st Century China Center Research Paper No. 2021-02.
 

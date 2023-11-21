@@ -14,9 +14,11 @@ Spence, Jonathan D. 2012. *The Search for Modern China* (3rd Edition). New York,
 
 ### Week 1: State of the Field
 
+**Discussion**: Abduction and scope condition in comparative politics.
+
 **[Core]** Tsai, Lily L. 2017. "Bringing in China: Insights for Building Comparative Political Theory." *Comparative Political Studies 50*(3): 295-328.
 
-**[Core]** Gallagher, Mary, E. 2002. "Why China's Economic Reforms Have Delayed Democracy." World Politics 54(3): 338-372. Read pp.338-346.
+**[Core]** Gallagher, Mary, E. 2002. "Why China's Economic Reforms Have Delayed Democracy." World Politics 54(3): 338-372. **Read pp.338-346.**
 
 Dickson, Bruce. 2008. *Wealth into Power: The Communist Party’s Embrace of China's Private Sector*. New York, NY: Cambridge University Press. **Read Chapter 1.**
 
@@ -27,6 +29,8 @@ Perry, Elizabeth J. 1994. "Trends in the Study of Chinese Politics: State-Societ
 White III, Lynn T. 2009. "Chinese Political Studies: Overview of the State of the Field." *Journal of Chinese Political Science 14*: 229–251.
 
 ### Week 2: From empire to "nation-state"
+
+**Discussion**: State capacity and state building in times of crisis.
 
 **[Core]** Lieberthal, Kenneth. 2003. *Governing China: From Revolution Through Reform*. New York, NY: W. W. Norton. **Read Chapter 2.** 
 
@@ -41,6 +45,8 @@ Remick, Elizabeth J. 2014. *Building Local States: China During the Republican a
 Strauss, Julia. 1998. *Strong Institutions in Weak Polities*. Oxford: Clarendon Press.
 
 ### Week 3: Structures of the Party-state
+
+**Discussion**: Institutional foundations of authoritarian resilience.
 
 **[Core]** Li, Cheng. 2019. "China's Communist Party State: The Structure and Dynamics of Power" in *Politics in China: An Introduction* (3rd ed). William A. Joseph, ed. Oxford: Oxford University Press. **Read pp.201-236.**
 
@@ -59,6 +65,8 @@ Harding, Harry. 1981. *Organizing China: The Problem of Bureaucracy, 1949-1976*.
 Liberthal, Kenneth and Michael Oksenberg. 1990. *Policy Making in China: Leaders, Structures, and Processes*. Princeton, NJ: Princeton University Press.
 
 ### Week 4: Informal politics and factionalism
+
+**Discussion**: Political succession and clientelism in dictatorships.
 
 **[Core]** Fewsmith, Joseph. 2021. *Rethinking Chinese Politics*. New York, NY: Cambridge University Press. **Read Introduction.**
 
@@ -79,6 +87,8 @@ Shih, Victor, Wei Shan, and Mingxing Liu. 2010. "Gauging the Elite Political Equ
 Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the Communist Party: Explaining the Advancement of Central Committee Members in China." *American Political Science Review 106*(1): 166-187.
 
 ### Week 5: Central-local relations and local governance
+
+**Discussion**: Political economy of decentralization and controlled comparison.
 
 **[Core]** Chung, Jae Ho. 2016. *Centrifugal Empire: Central-Local Relations in China*. New York, NY: Columbia University Press. **Read Chapter 1.**
 

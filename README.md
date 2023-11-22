@@ -14,11 +14,11 @@ Spence, Jonathan D. 2012. *The Search for Modern China* (3rd Edition). New York,
 
 ### Week 1: State of the Field
 
-**Discussion**: Abduction and scope condition in comparative politics.
+**Discussion**: Scope condition and abduction for theory-building in comparative politics.
 
 **[Core]** Tsai, Lily L. 2017. "Bringing in China: Insights for Building Comparative Political Theory." *Comparative Political Studies 50*(3): 295-328.
 
-**[Core]** Gallagher, Mary, E. 2002. "Why China's Economic Reforms Have Delayed Democracy." World Politics 54(3): 338-372. **Read pp.338-346.**
+**[Core]** Gallagher, Mary, E. 2002. "Why China's Economic Reforms Have Delayed Democracy." *World Politics 54*(3): 338-372. **Read pp.338-346.**
 
 Dickson, Bruce. 2008. *Wealth into Power: The Communist Party’s Embrace of China's Private Sector*. New York, NY: Cambridge University Press. **Read Chapter 1.**
 
@@ -26,11 +26,13 @@ Harding, Harry. 1984 "The Study of Chinese Politics: Toward a Third Generation o
 
 Perry, Elizabeth J. 1994. "Trends in the Study of Chinese Politics: State-Society Relations." *China Quarterly 139*: 704-713.
 
+Pye, Lucian W. 1975. "The Applicability of Modern Political Science Approaches to the Study of Chinese Politics." International China Conference.
+
 White III, Lynn T. 2009. "Chinese Political Studies: Overview of the State of the Field." *Journal of Chinese Political Science 14*: 229–251.
 
 ### Week 2: From empire to "nation-state"
 
-**Discussion**: State capacity and state building in times of crisis.
+**Discussion**: State building in times of crisis.
 
 **[Core]** Lieberthal, Kenneth. 2003. *Governing China: From Revolution Through Reform*. New York, NY: W. W. Norton. **Read Chapter 2.** 
 
@@ -66,21 +68,17 @@ Liberthal, Kenneth and Michael Oksenberg. 1990. *Policy Making in China: Leaders
 
 ### Week 4: Informal politics and factionalism
 
-**Discussion**: Political succession and clientelism in dictatorships.
+**Discussion**: Elite politics and the politics of succession in dictatorships.
 
-**[Core]** Fewsmith, Joseph. 2021. *Rethinking Chinese Politics*. New York, NY: Cambridge University Press. **Read Introduction.**
-
-**[Core]** Shih, Victor C. 2022. *Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi*. New York, NY: Cambridge University Press. **Read pp.1-10.**
-
-Cheung, Olivia. 2022. "Factional Model-making in China: Party Elites' Open Political Contention in the Policy Process." *China Quarterly 251*: 705-725.
+**[Core]** Fewsmith, Joseph. 2021. *Rethinking Chinese Politics*. New York, NY: Cambridge University Press. **Read Introduction and Chapter 2.**
 
 Dittmer, Lowell, and Yu-Shan Wu. 1995. "The Modernization of Factionalism in Chinese Politics." *World Politics 47*(4): 467-494.
-
-Gueorguiev, Dimitar D. 2018. "Dictator’s Shadow: Chinese Elite Politics Under Xi Jinping." *China Perspectives 2018*(1/2): 17-26.
 
 Jiang, Junyan. 2018. "Making Bureaucracy Work: Patronage Networks, Performance Incentives, and Economic Development in China." *American Journal of Political Science 62*(4): 982-999.
 
 Kung, James Kai-sing. 2014. "The Emperor Strikes Back: Political Status, Career Incentives, and Grain Procurement during China's Great Leap Famine." *Political Science Research and Methods 2*(2): 179-211.
+
+Shih, Victor C. 2022. *Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi*. New York, NY: Cambridge University Press.
 
 Shih, Victor, Wei Shan, and Mingxing Liu. 2010. "Gauging the Elite Political Equilibrium in the CCP: A Quantitative Approach Using Biographical Data." *China Quarterly 201*: 79-103.
 
@@ -114,7 +112,29 @@ Zheng, Yongnian. 2008. *De Facto Federalism in China*. Singapore: World Scientif
 
 No class this week.
 
-### Week 7: Co-optation and representation
+### Week 7: Coercion and control
+
+Discussion: Digital technology and regime durability.
+
+**[Core]** Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY: Cambridge University Press.
+
+**[Core]** Shih, Victor. 2020. "China's Leninist Response to COVID-19: From Information Suppression to Total Mobilization." UCSD 21st Century China Center Research Paper No. 2021-02.
+
+Cai, Yongshun. 2008. "Power Structure and Regime Resilience: Contentious Politics in China." *British Journal of Political Science 38*(3): 411-432.
+
+Desposato, Scott W., Gang Wang, and Jason Y. Wu. 2021. "The Long-Term Impact of Mobilization and Repression on Political Trust." *Comparative Political Studies 54*(27): 2447-2474.
+
+Fu, Diana. 2018. *Mobilizing Without the Masses: Control and Contention in China*. New York: Cambridge University Press.
+
+Lee, Ching Kwan, and Yonghong Zhang. 2013. "The Power of Instability: Unraveling the Microfoundations of Bargained Authoritarianism in China." *American Journal of Sociology 118*(6): 1475-1508.
+
+Beraja, Martin and Andrew Kao, David Yang, and Noam Yuchtman. 2023. "AI-tocracy." *Quarterly Journal of Economics 138*(3): 1349-1402.
+
+Xu, Xu. 2021. "To Repress or to Co-opt? Authoritarian Surveillance." *American Journal of Political Science 65*(2): 309-325.
+
+### Week 8: Co-optation and representation
+
+Discussion: Political participation in non-democratic states.
 
 **[Core]** Mertha, Andrew. 2009. "'Fragmented Authoritarianism 2.0': Political Pluralization in the Chinese Policy Process." *China Quarterly 200*: 995-1012.
 
@@ -124,15 +144,15 @@ Bernstein, Thomas P. and Xiaobo Lu. 2008. *Taxation without Representation in Co
 
 Chen, Jidong, Jennifer Pan, and Yiqing Xu. 2016. "Sources of Authoritarian Responsiveness: A Field Experiment in China." *American Journal of Political Science 60*(2): 383-400.
 
-Horsley, Jamie P. 2009. "Public Participation in the People’s Republic: Developing a More Participatory Governance Model in China." Working paper.
-
-Qiaoan, Runya, and Jessica C. Teets. 2020. "Responsive Authoritarianism in China." *Journal of Chinese Political Science 25*: 139-153.
-
 Truex, Rory. 2014. "The Returns to Office in a 'Robber Stamp' Parliament." *American Political Science Review 108*(2): 235-251.
 
 Wang, Zhengxu, and Long Sun. 2017. "Social Class and Voter Turnout in China: Local Congress Elections and Citizen-Regime Relations." *Political Research Quarterly 70*(2): 243-256.
 
-### Week 8: Social protection and (re)distributive politics
+### Week 9: Ideology and propaganda
+
+Guest speaker. Details TBD.
+
+### Week 10: Social protection and (re)distributive politics
 
 **[Core]** Huang, Xian. 2020. *Social Protection under Authoritarianism: Health Politics and Policy in China*. New York, NY: Oxford University Press.
 
@@ -148,31 +168,9 @@ Solinger, Dorothy J. 2015. "Three Welfare Models and Current Chinese Social Assi
 
 Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. From Poverty to Trust: Political Implications of the Anti-poverty Campaign in China. *International Political Science Review 44*(2): 277-298.
 
-### Week 9: Ideology and propaganda
-
-Guest speaker. Details TBD.
-
-### Week 10: Coercion and control
-
-**[Core]** Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY: Cambridge University Press.
-
-**[Core]** Shih, Victor. 2020. "China's Leninist Response to COVID-19: From Information Suppression to Total Mobilization." UCSD 21st Century China Center Research Paper No. 2021-02.
-
-Cai, Yongshun. 2008. "Power Structure and Regime Resilience: Contentious Politics in China." *British Journal of Political Science 38*(3): 411-432.
-
-Desposato, Scott W., Gang Wang, and Jason Y. Wu. 2021. "The Long-Term Impact of Mobilization and Repression on Political Trust." *Comparative Political Studies 54*(27): 2447-2474.
-
-Fu, Diana. 2018. *Mobilizing Without the Masses: Control and Contention in China*. New York: Cambridge University Press.
-
-Lee, Ching Kwan, and Yonghong Zhang. 2013. "The Power of Instability: Unraveling the Microfoundations of Bargained Authoritarianism in China." *American Journal of Sociology 118*(6): 1475-1508.
-
-Stern, Rachel. E., and Jonathan Hassid. 2012. "Amplifying Silence: Uncertainty and Control Parables in Contemporary China." Comparative Political Studies 45(10): 1230-1254.
-
-Xu, Xu. 2021. "To Repress or to Co-opt? Authoritarian Surveillance." *American Journal of Political Science 65*(2): 309-325.
-
 ### Week 11: China as a method
 
-**[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Read ToCs and Introduction.**
+**[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Read Table of Contents and Introduction.**
 
 Franziska, Keller Barbara. 2016. Moving Beyond Factions: Using Social Network Analysis to Uncover Patronage Networks Among Chinese Elites. *Journal of East Asian Studies 16*(1), 17-41.
 

@@ -180,8 +180,6 @@ King, Gary, Jennifer Pan, and Margaret E. Roberts. 2013. "How Censorship in Chin
 
 Krcmaric, Daniel, Stephen C. Nelson, and Andrew Roberts. 2019. "Studying Leaders and Elites: The Personal Biography Approach." *Annual Review of Political Science 23*: 133-151.
 
-Pepinksy, Thomas
-
 ## Contact Information
 
 If you have any questions, please email [chaoyo.cheng[at]bbk.ac.uk](mailto:chaoyo.cheng@bbk.ac.uk).

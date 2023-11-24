@@ -68,9 +68,11 @@ Liberthal, Kenneth and Michael Oksenberg. 1990. *Policy Making in China: Leaders
 
 ### Week 4: Informal politics and factionalism
 
-**Discussion**: Elite politics and the politics of succession in dictatorships.
+**Discussion**: Selectorate theory and comparative authoritarianism.
 
 **[Core]** Fewsmith, Joseph. 2021. *Rethinking Chinese Politics*. New York, NY: Cambridge University Press. **Read Introduction and Chapter 2.**
+
+**[Core]** Shih, Victor, Wei Shan, and Mingxing Liu. 2010. "Gauging the Elite Political Equilibrium in the CCP: A Quantitative Approach Using Biographical Data." *China Quarterly 201*: 79-103. **Read pp.79-82.**
 
 Dittmer, Lowell, and Yu-Shan Wu. 1995. "The Modernization of Factionalism in Chinese Politics." *World Politics 47*(4): 467-494.
 
@@ -79,8 +81,6 @@ Jiang, Junyan. 2018. "Making Bureaucracy Work: Patronage Networks, Performance I
 Kung, James Kai-sing. 2014. "The Emperor Strikes Back: Political Status, Career Incentives, and Grain Procurement during China's Great Leap Famine." *Political Science Research and Methods 2*(2): 179-211.
 
 Shih, Victor C. 2022. *Coalitions of the Weak: Elite Politics in China from Mao's Strategem to the Rise of Xi*. New York, NY: Cambridge University Press.
-
-Shih, Victor, Wei Shan, and Mingxing Liu. 2010. "Gauging the Elite Political Equilibrium in the CCP: A Quantitative Approach Using Biographical Data." *China Quarterly 201*: 79-103.
 
 Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the Communist Party: Explaining the Advancement of Central Committee Members in China." *American Political Science Review 106*(1): 166-187.
 

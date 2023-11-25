@@ -186,6 +186,6 @@ Krcmaric, Daniel, Stephen C. Nelson, and Andrew Roberts. 2019. "Studying Leaders
 
 ## Contact Information
 
-If you have any questions, please email [chaoyo.cheng[at]bbk.ac.uk](mailto:chaoyo.cheng@bbk.ac.uk).
+If you have any questions, please email [c.cheng[at]bbk.ac.uk](mailto:c.cheng@bbk.ac.uk).
 
-Date: 21 November 2023
+Date: 25 November 2023

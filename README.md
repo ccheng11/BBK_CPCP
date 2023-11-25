@@ -26,7 +26,7 @@ Harding, Harry. 1984 "The Study of Chinese Politics: Toward a Third Generation o
 
 Perry, Elizabeth J. 1994. "Trends in the Study of Chinese Politics: State-Society Relations." *China Quarterly 139*: 704-713.
 
-Pye, Lucian W. 1975. "The Applicability of Modern Political Science Approaches to the Study of Chinese Politics." International China Conference.
+Pye, Lucian W. 1975. "The Applicability of Modern Political Science Approaches to the Study of Chinese Politics." International China Conference, Berlin.
 
 White III, Lynn T. 2009. "Chinese Political Studies: Overview of the State of the Field." *Journal of Chinese Political Science 14*: 229–251.
 

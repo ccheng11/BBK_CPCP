@@ -86,7 +86,7 @@ Shih, Victor, Christopher Adolph, and Mingxing Liu. 2012. "Getting Ahead in the 
 
 ### Week 5: Central-local relations and local governance
 
-**Discussion**: Political economy of decentralization and controlled comparison.
+**Discussion**: Political economy of decentralization and controlled comparison in comparative politics.
 
 **[Core]** Chung, Jae Ho. 2016. *Centrifugal Empire: Central-Local Relations in China*. New York, NY: Columbia University Press. **Read Chapter 1.**
 
@@ -114,7 +114,7 @@ No class this week.
 
 ### Week 7: Coercion and control
 
-Discussion: Digital technology and regime durability.
+**Discussion**: Technological innovations and autocratic survival.
 
 **[Core]** Mattingly, Daniel C. 2019. *The Art of Political Control in China*. New York, NY: Cambridge University Press.
 
@@ -134,7 +134,7 @@ Xu, Xu. 2021. "To Repress or to Co-opt? Authoritarian Surveillance." *American J
 
 ### Week 8: Co-optation and representation
 
-Discussion: Political participation in non-democratic states.
+**Discussion**: Political participation in non-democratic states.
 
 **[Core]** Mertha, Andrew. 2009. "'Fragmented Authoritarianism 2.0': Political Pluralization in the Chinese Policy Process." *China Quarterly 200*: 995-1012.
 
@@ -154,6 +154,8 @@ Guest speaker. Details TBD.
 
 ### Week 10: Social protection and (re)distributive politics
 
+**Discussion**: Selectorate theory and distributive politics.
+
 **[Core]** Huang, Xian. 2020. *Social Protection under Authoritarianism: Health Politics and Policy in China*. New York, NY: Oxford University Press.
 
 **[Core]** Duckett, Jane, and Neil Munro. 2021. "Authoritarian Regime Legitimacy and Health Care Provision: Survey Evidence from Contemporary China." *Journal of Health Politics Policy and Law 47*(3): 375–409. 
@@ -166,9 +168,11 @@ Saich, Anthony. 2008. *Providing Public Goods in Transitional China*. New York, 
 
 Solinger, Dorothy J. 2015. "Three Welfare Models and Current Chinese Social Assistance." *Journal of Asian Studies 74*(4): 977-999.
 
-Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. From Poverty to Trust: Political Implications of the Anti-poverty Campaign in China. *International Political Science Review 44*(2): 277-298.
+Zuo, Cai (Vera), Zhongyuan Wang, and Qingjie Zeng. 2023. "From Poverty to Trust: Political Implications of the Anti-poverty Campaign in China." *International Political Science Review 44*(2): 277-298.
 
 ### Week 11: China as a method
+
+**Discussion**: Single-country study in comparative politics.
 
 **[Core]** Carlson, Allen, Mary E. Gallagher, Kenneth Lieberthal, and Melanie Manion. 2010. *Contemporary Chinese Politics: New Sources, Methods, and Field Strategies*. New York, NY: Cambridge University Press. **Skim Table of Contents and Introduction.**
 
